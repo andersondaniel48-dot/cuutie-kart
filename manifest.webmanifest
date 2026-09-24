@@ -1,0 +1,17 @@
+{
+  "name": "Cuutie Kart",
+  "short_name": "Cuutie Kart",
+  "description": "The sweetheart grand prix of Wuutie and Cuutie.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#ffd6ea",
+  "theme_color": "#ff8cc6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
